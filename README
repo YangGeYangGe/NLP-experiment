@@ -1,0 +1,18 @@
+Libraries
+nltk==3.3
+numpy==1.14.3
+pandas==0.22.0
+python-dateutil==2.7.2
+pytz==2018.4
+scikit-learn==0.19.1
+scipy==1.1.0
+six==1.11.0
+sklearn==0.0
+
+To execute experiments:
+python3 baseline.py
+python3 experiment1.py
+python3 experiment2.py
+python3 experiment3.py
+python3 experiment4.py
+python3 experiment5.py
